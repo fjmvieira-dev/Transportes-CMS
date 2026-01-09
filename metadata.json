@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Transportes - Município de Soure",
+  "description": "Uma plataforma completa para gestão de pedidos de autocarros, motoristas e frota municipal, com agendamento inteligente e controle de disponibilidade.",
+  "requestFramePermissions": []
+}
